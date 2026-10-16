@@ -1,0 +1,274 @@
+========================常规板子==========================
+
+LJ Distance: 251.513
+Maxspeed: 332.647 (56.781 Net)
+Pre: 275.866119 Ground Max: 276.053741
+Strafes: 5
+KeySync: 98%
+ (K)	Gain	Loss	OL	 DA	DESYNC	Time (Air)	 KeySync 	 DPS/DIFF	Angle
+	D	12.2	0.0	   2	   0	   0	 19.7% (14)	 100%	239.7(+0.0)	 26.6
+	A	13.2	0.9	   0	   0	   0	 18.3% (13)	 100%	243.5(+3.8)	 33.1
+	D	10.0	1.1	   4	   0	   0	 18.3% (13)	 100%	248.1(+4.5)	 32.0
+	A	11.0	0.0	   0	   1	   0	 18.3% (13)	 100%	250.4(+2.3)	 28.9
+	D	12.2	0.0	   0	   0	   1	 25.3% (18)	  94%	251.7(+1.2)	 25.5
+蹲 1F / 重叠 6F / 空帧 1F / 键鼠同步 1F
+W松晚了 3F
+Jumpoff -- 2.01
+
+
+[MAIN] LongJump
+Distance: 250.374725 units
+Maxspeed: 331.339 (+56.328)
+Prestrafe (FOG): 275.011
+Frames: 73
+Strafes: 4
+Efficiency: 82.0%
+#N button gain-loss loss duration efficiency overlaps desync angle
+1. A  14.4   0.0  16    68%   2   0   43.8
+2. D  14.3   0.4  16    75%   2   0   41.8
+3. A  13.7   0.0  17    88%   0   1   44.8
+4. D  13.8   0.0  27    96%   0   2   28.4
+Total gain-loss: 56.3 / Efficiency: 82.0% / 10 Induck
+Jumpoff: 4.755 Landing: 10.775 Block: 233.000
+
+·
+CJ Distance: 258.468
+Maxspeed: 339.216 (57.829 Net)
+Prestrafe: (272.5|51d) 281.387084
+Strafes: 6
+KeySync: 90%
+ (K)	Gain	Loss	OL	 DA	DESYNC	Time (Air)	 KeySync 	 DPS/DIFF	Angle
+	A	11.5	0.0	   2	   0	   0	 15.0% (11)	 100%	244.3(+0.0)	 35.7
+	D	  9.7	0.0	   2	   0	   1	 15.0% (11)	  88%	249.3(+5.0)	 25.8
+	A	  9.2	0.0	   0	   1	   1	 13.6% (10)	  88%	252.7(+3.4)	 26.9
+	D	  8.8	0.0	   3	   0	   1	 15.0% (11)	  87%	256.3(+3.5)	 32.5
+	A	  8.2	0.0	   0	   0	   1	 16.4% (12)	  91%	257.9(+1.5)	 35.1
+	D	10.2	0.0	   0	   0	   2	 24.6% (18)	  88%	258.4(+0.5)	 20.5
+蹲 3F / 重叠 7F / 空帧 1F / 键鼠同步 6F
+Block -- 245 / Jumpoff -- 7.50 / Landing -- 5.95
+[KZ] 小希desu  CJ =  距离: 258.468 地速: 281.3 (339.2) 加速次数: 6 同步率: 87  [245 板子]
+
+
+DCJ Distance: 255.777
+Maxspeed: 328.271 (45.711 Net)
+Prestrafe: (271.3|33d) (275.2|16d) 282.560180
+Strafes: 4
+Sync: 67%
+ (K)	Gain	Loss	OL	 DA	DESYNC	Time (Air)	 Sync 	 DPS/DIFF	Angle
+	A	12.5	0.0	   0	   0	   0	 12.3%   (9)	 100%	245.3(+0.0)	 41.1
+	D	12.3	0.2	   3	   0	   2	 20.5% (15)	  73%	250.5(+5.1)	 41.6
+	A	  8.6	0.0	   0	   0	   1	 19.1% (14)	  85%	254.7(+4.1)	 44.7
+	D	12.4	0.0	   0	 13	   3	 47.9% (35)	  48%	255.9(+1.2)	 26.6
+蹲 15F / 重叠 3F / 空帧 13F / 键鼠同步 6F
+..................................................
+Prestrafe before ducking: 271.302
+Prestrafe after 1st duck: 275.237
+Prestrafe before jumping: 282.560
+..................................................
+[KZ] 小希desu  DCJ =  距离: 255.777 地速: 282.5 (328.2) 加速次数: 4 同步率: 67
+
+
+[MAIN] DoubleCJ
+Distance: 255.729934 units
+Maxspeed: 342.827 (+65.871)
+Prestrafe (FOG): 288.421(2), 280.178(2), 271.134
+Frames: 73
+Strafes: 6
+Efficiency: 79.0%
+#N button gain-loss loss duration efficiency overlaps desync angle
+1. A  10.7   0.0    8  100%   0   0   52.8
+2. D  12.2   0.0  12    83%   3   0   39.0
+3. A  11.2   0.0  12    75%   0   0   40.4
+4. D    8.2   0.0  11    63%   3   1   29.9
+5. A  10.1   0.0  13    69%   0   1   36.5
+6. D  13.0   0.0  18    83%   0   2   30.3
+Total gain-loss: 65.8 / Efficiency: 79.0% / 8 Induck
+Jumpoff: 11.825 Landing: 19.450 Block: 224.000
+
+
+
+========================极限板子==========================
+
+CJ Distance: 255.136
+Maxspeed: 326.620 (43.436 Net)
+Prestrafe: (273.3|58d) 283.184143
+Strafes: 4
+Sync: 82%
+ (K)	Gain	Loss	OL	 DA	DESYNC	Time (Air)	 Sync 	 DPS/DIFF	Angle
+	A	10.6	0.0	   0	   1	   1	 16.4% (12)	  91%	245.5(+0.0)	 25.0
+	D	  9.2	0.1	   4	   0	   2	 19.1% (14)	  71%	249.6(+4.1)	 22.6
+	A	12.8	0.0	   0	   1	   0	 17.8% (13)	  92%	252.7(+3.0)	 33.2
+	D	11.3	0.6	   0	   0	   7	 46.5% (34)	  79%	255.9(+3.2)	 20.8
+蹲 9F / 重叠 4F / 空帧 2F / 键鼠同步 10F
+Block -- 253 / Jumpoff -- 0.87 / Landing -- 1.25
+[KZ] 也许会有希望呢  CJ =  距离: 255.136 地速: 283.1 (326.6) 加速次数: 4 同步率: 82  [253 板子]
+
+
+LJ Distance: 250.472
+Maxspeed: 331.359 (56.881 Net)
+Pre: 274.477600 Ground Max: 275.065185
+Strafes: 5
+KeySync: 92%
+ (K)	Gain	Loss	OL	 DA	DESYNC	Time (Air)	 KeySync 	 DPS/DIFF	Angle
+	D	  7.8	0.0	   5	   0	   1	 16.4% (12)	  85%	237.6(+0.0)	 26.5
+	A	13.2	0.0	   0	   0	   0	 15.0% (11)	 100%	241.4(+3.8)	 33.2
+	D	12.2 0.9	   4	   0	   1	 20.5% (15)	  90%	246.8(+5.3)	 36.7
+	A	11.7	0.0	   2	   0	   1	 17.8% (13)	  92%	249.9(+3.0)	 28.5
+	D	13.7	0.8	   0	   0	   2	 30.1% (22)	  90%	251.4(+1.4)	 28.3
+蹲 2F / 重叠 9F / 空帧 0F / 键鼠同步 5F
+Block -- 248 / Jumpoff -- 0.36
+[KZ] 小希desu  LJ =  距离: 250.472 地速: 274.4 (331.3) 加速次数: 5 同步率: 83  [248 板子]
+
+
+========================下落板子==========================
+
+DD+WJ Distance: 269.619
+
+Maxspeed: 351.186 (51.964 Net)
+Prestrafe: 299.222381
+Strafes: 6
+Sync: 79%
+ (K)	Gain	Loss	OL	 DA	DESYNC	Time (Air)	 Sync 	 DPS/DIFF	Angle
+	A	  7.5	0.0	   0	   0	   0	   8.2%   (6)	 100%	255.4(+0.0)	 21.8
+	D	11.7	0.7	   3	   0	   1	 19.1% (14)	  78%	259.5(+4.0)	 31.9
+	A	  8.5	0.0	   0	   1	   0	 13.6% (10)	  90%	265.0(+5.5)	 21.9
+	D	  7.2	0.0	   5	   0	   2	 19.1% (14)	  64%	267.1(+2.0)	 21.9
+	A	  9.8	0.0	   0	   1	   0	 16.4% (12)	  91%	269.1(+2.0)	 23.5
+	D	  8.2	0.5	   0	   1	   4	 23.2% (17)	  70%	270.1(+1.0)	 15.7
+蹲 6F / 重叠 8F / 空帧 3F / 键鼠同步 7F
+Block -- 240 / Jumpoff -- 17.01 / Landing -- 12.60
+[KZ] 也许会有希望呢  WeirdJump after dd =  距离: 269.619 地速: 299.2 (351.1) 加速次数: 6 同步率: 79   
+
+
+Drop BJ Distance: 269.474
+Maxspeed: 346.326 (46.999 Net)
+Prestrafe: 299.327209
+Strafes: 5
+Sync: 71%
+ (K)	Gain	Loss	OL	 DA	DESYNC	Time (Air)	 Sync 	 DPS/DIFF	Angle
+	D	10.8	0.0	   2	   0	   0	 12.3%   (9)	  88%	257.7(+0.0)	 32.8
+	A	  9.3	0.0	   0	   0	   0	 12.3%   (9)	 100%	261.8(+4.0)	 25.9
+	D	  7.0	0.2	   4	   0	   2	 16.4% (12)	  58%	266.0(+4.2)	 27.1
+	A	11.0	0.0	   0	   0	   1	 19.1% (14)	  78%	267.8(+1.8)	 32.7
+	D	  9.9	0.9	   0	   6	   6	 39.7% (29)	  58%	270.3(+2.4)	 19.7
+蹲 15F / 重叠 6F / 空帧 6F / 键鼠同步 9F
+Block -- 224 / Jumpoff -- 38.69 / Landing -- 6.77
+[KZ] 也许会有希望呢  Drop Bhop =  距离: 269.474 地速: 299.3 (346.3) 加速次数: 5 同步率: 71
+
+
+WJ Distance: 273.627
+Maxspeed: 357.854 (51.455 Net)
+Pre: 274.89 -> 306.39 [1F]
+Strafes: 6
+KeySync: 93%
+ (K)	Gain	Loss	OL	 DA	DESYNC	Time (Air)	 KeySync 	 DPS/DIFF	Angle
+	A	  6.6	0.0	   0	   0	   0	   7.1%   (5)	 100%	260.1(+0.0)	 18.4
+	D	  7.3	0.3	   3	   0	   2	 15.7% (11)	  75%	264.2(+4.0)	 21.7
+	A	  9.8	0.0	   0	   0	   0	 12.8%   (9)	 100%	268.0(+3.7)	 27.2
+	D	  7.4	0.4	   3	   0	   1	 15.7% (11)	  87%	271.9(+3.9)	 19.5
+	A	10.0	0.0	   0	   1	   0	 15.7% (11)	 100%	273.5(+1.5)	 28.3
+	D	10.8	0.0	   0	   3	   1	 32.8% (23)	  95%	275.1(+1.6)	 22.4
+蹲 6F / 重叠 6F / 空帧 4F / 键鼠同步 4F
+Weapon: scout
+Block -- 245 / Jumpoff -- 10.26 / Landing -- 18.36
+[KZ] 小希desu  WeirdJump =  距离: 273.627 地速: 306.3 (357.8) 加速次数: 6 同步率: 84 [scout]
+
+
+========================连跳板子==========================
+
+[MAIN] BhopJump
+Distance: 243.529571 units
+Maxspeed: 343.893 (+44.568)
+Prestrafe (FOG): 299.324(1), 251.464
+Frames: 66
+Strafes: 6
+Efficiency: 64.6%
+#N button gain-loss loss duration efficiency overlaps desync angle
+1. D    7.0   0.0    8    75%   3   0   20.0
+2. A  10.1   0.0  13    76%   0   0   25.2
+3. D    8.1   0.7  12    75%   3   1   24.2
+4. A  10.1   0.0  14    78%   0   0   24.1
+5. D    9.1   0.6  23    82%   4   3   24.9
+6. A    0.0   0.2    6      0%   0   0     1.7
+Total gain-loss: 44.5 / Efficiency: 64.6% / 16 Induck
+[KZ] Zika jumped 243.529 units with bhop!
+
+
+SBJ Distance: 242.200
+Maxspeed: 342.863586 (46.847 Net)
+Pre: 296.016 [1F]
+Strafes: 4
+KeySync: 94%
+ (K)	Gain	Loss	OL	 DA	DESYNC	Time (Air)	 KeySync 	 DPS/DIFF	Angle
+	A	12.8	0.0	   0	   1	   0	 18.4% (12)	 100%	233.5(+0.0)	 39.1
+	D	  8.2	0.1	   5	   0	   2	 20.0% (13)	  75%	238.3(+4.8)	 21.1
+	A	11.8	0.0	   0	   0	   0	 16.9% (11)	 100%	239.7(+1.3)	 32.1
+	D	14.9	0.7	   0	   0	   1	 44.6% (29)	  96%	242.4(+2.7)	 29.7
+蹲 10F / 重叠 5F / 空帧 1F / 键鼠同步 3F
+Block -- 192 / Jumpoff -- 27.44 / Landing -- 22.75
+[KZ] 小希desu  StandUp BhopJump =  距离: 242.200 地速: 296.0 (342.8) 加速次数: 4 同步率: 87
+
+
+========================梯子板子==========================
+
+Ladder Distance: 181.531
+Maxspeed: 256.102 (76.535 Net)
+Prestrafe: 179.567443
+Strafes: 5
+Sync: 84%
+ (K)	Gain	Loss	OL	 DA	DESYNC	Time (Air)	 Sync 	 DPS/DIFF	Angle
+	D	29.0	0.0	   5	   0	   1	 24.3% (20)	  80%	137.3(+0.0)	 89.5
+	A	12.3	0.0	   0	   0	   0	 10.9%   (9)	 100%	145.5(+8.1)	 27.5
+	D	10.1	0.9	   4	   0	   1	 15.8% (13)	  69%	146.4(+0.9)	 28.9
+	A	14.0	0.0	   0	   3	   1	 19.5% (16)	  68%	149.7(+3.2)	 34.3
+	D	12.0	0.0	   0	   0	   0	 29.2% (24)	 100%	150.4(+0.7)	 21.5
+蹲 13F / 重叠 9F / 空帧 3F / 键鼠同步 3F
+[KZ] 小希desu  LadderJump =  距离: 181.531 地速: 179.5 (256.1) 加速次数: 5 同步率: 84
+
+
+[MAIN] Ladder BhopJump
+Distance: 263.185791 units
+Maxspeed: 354.533 (+56.300)
+Prestrafe (FOG): 298.233(1), 270.000
+Frames: 73
+Strafes: 5
+Efficiency: 61.3%
+#N button gain-loss loss duration efficiency overlaps desync angle
+1. A  13.7   0.0  15    73%   0   4   27.6
+2. D    8.5   0.0  11    81%   3   0   30.3
+3. A  15.0   0.0  17    76%   0   1   46.6
+4. D  18.9   0.0  28    75%   4   2   58.1
+5. A    0.0   0.0    8      0%   0   1     4.1
+Total gain-loss: 56.3 / Efficiency: 61.3% / 20 Induck
+
+[KZ] Zika jumped 263.185 units with ladder bhop! [100aa]
+
+
+========================蹲连板子==========================
+
+Bhop In Duck Distance: 211.977
+Maxspeed: 306.448730 (8.303 Net)
+Prestrafe: 298.144866
+Strafes: 1
+KeySync: 100%
+ (K)	Gain	Loss	OL	 DA	DESYNC	Time (Air)	 KeySync 	 DPS/DIFF	Angle
+	D	  8.4	0.0	   0	   0	   0	100.0% (59)	 100%	232.0(+0.0)	 16.5
+蹲 59F / 重叠 0F / 空帧 0F / 键鼠同步 0F
+[KZ] 小希desu  Bhop In Duck =  距离: 211.977 地速: 298.1 (306.4) 加速次数: 1 同步率: 100
+
+
+========================贴墙板子==========================
+
+Wall LJ Distance: 245.541
+Maxspeed: 311.617 (35.359 Net)
+Pre: 276.258239 Ground Max: 276.258239
+Strafes: 1
+KeySync: 33%
+ (K)	Gain	Loss	OL	 DA	DESYNC	Time (Air)	 KeySync 	 DPS/DIFF	Angle
+	D	35.3	0.0	   0	   0	 49	100.0% (74)	  33%	245.5(+0.0)	 12.4
+蹲 57F / 重叠 0F / 空帧 0F / 键鼠同步 49F
+W松晚了 2F
+Probably Touched something
+Block -- 230 / Jumpoff -- 21.71 / Lasting -- 6.16
+
+
